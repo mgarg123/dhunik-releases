@@ -1,1 +1,5 @@
-{"latestVersion": "1.0.1", "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.0.1.apk", "changelog": "fix github action yml"}
+{
+  "latestVersion": "1.0.2",
+  "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.0.2.apk",
+  "changelog": "### Fixed\n- Bug fixes and optimizations"
+}
