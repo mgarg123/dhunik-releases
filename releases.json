@@ -1,6 +1,13 @@
 {
   "releases": [
     {
+      "version": "1.0.3",
+      "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.0.3.apk",
+      "changelog": "Release automation update",
+      "releaseDate": "2025-11-29T17:29:18Z",
+      "apkSize": 71438414
+    },
+    {
       "version": "1.0.2",
       "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.0.2.apk",
       "changelog": "### Fixed\n- Bug fixes and optimizations",
