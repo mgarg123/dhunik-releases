@@ -7,7 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
-## [1.0.4] - 2025-1130
+## [1.0.5] - 2025-11-30
+### Added
+- Offline playback support
+### Fixed
+- Fixed offline playback issues
+- Other bug fixes and optimizations
+
+## [1.0.4] - 2025-11-30
 ### Fixed
 - Fixed app versioning issues
 - Stable version
