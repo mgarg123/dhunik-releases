@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.3",
-  "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.0.3.apk",
-  "changelog": "Release automation update"
+  "latestVersion": "1.0.4",
+  "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.0.4.apk",
+  "changelog": "### Fixed\n- Fixed app versioning issues\n- Stable version\n- May have known auth issue"
 }
