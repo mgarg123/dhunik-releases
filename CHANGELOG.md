@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
+## [1.0.8] - 2025-11-30
+### Fixed
+- Synced lyrics scroll & positioning issue 
+- Eager fetch lyrics after song is played
+
+## [1.0.7] - 2025-11-30
+### Added
+- Song link sharing
+- URL deeplinking with dhunik.in
+
 ## [1.0.6] - 2025-11-30
 ### Fixed
 - App name appearing in lowercase in the app drawer

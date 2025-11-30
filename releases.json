@@ -1,6 +1,13 @@
 {
   "releases": [
     {
+      "version": "1.0.8",
+      "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.0.8.apk",
+      "changelog": "### Fixed\n- Synced lyrics scroll & positioning issue \n- Eager fetch lyrics after song is played",
+      "releaseDate": "2025-11-30T15:32:00Z",
+      "apkSize": 72683758
+    },
+    {
       "version": "1.0.7",
       "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.0.7.apk",
       "changelog": "fixes",
