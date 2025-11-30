@@ -1,6 +1,13 @@
 {
   "releases": [
     {
+      "version": "1.0.6",
+      "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.0.6.apk",
+      "changelog": "### Fixed\n- App name appearing in lowercase in the app drawer",
+      "releaseDate": "2025-11-30T10:55:13Z",
+      "apkSize": 72569254
+    },
+    {
       "version": "1.0.5",
       "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.0.5.apk",
       "changelog": "### Added\n- Offline playback support\n### Fixed\n- Fixed offline playback issues\n- Other bug fixes and optimizations",
