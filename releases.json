@@ -1,6 +1,13 @@
 {
   "releases": [
     {
+      "version": "1.0.9",
+      "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.0.9.apk",
+      "changelog": "### Added\n- Carousel mode in Now Playing page allowing visible preview for user to change the prev/next songs",
+      "releaseDate": "2025-12-05T18:49:01Z",
+      "apkSize": 72749294
+    },
+    {
       "version": "1.0.8",
       "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.0.8.apk",
       "changelog": "### Fixed\n- Synced lyrics scroll & positioning issue \n- Eager fetch lyrics after song is played",

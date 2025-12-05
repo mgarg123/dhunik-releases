@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
+## [1.0.9] - 2025-12-05
+### Added
+- Carousel mode in Now Playing page allowing visible preview for user to change the prev/next songs
+
 ## [1.0.8] - 2025-11-30
 ### Fixed
 - Synced lyrics scroll & positioning issue 
