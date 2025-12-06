@@ -1,6 +1,13 @@
 {
   "releases": [
     {
+      "version": "1.0.10",
+      "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.0.10.apk",
+      "changelog": "### Fixed\n- Bug Fixes\n- Fixed web app compatibility issues while playing the liked song",
+      "releaseDate": "2025-12-06T19:27:48Z",
+      "apkSize": 72814822
+    },
+    {
       "version": "1.0.9",
       "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.0.9.apk",
       "changelog": "### Added\n- Carousel mode in Now Playing page allowing visible preview for user to change the prev/next songs",

@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
+## [1.0.10] - 2025-12-05
+### Fixed
+- Bug Fixes
+- Fixed web app compatibility issues while playing the liked song
+
 ## [1.0.9] - 2025-12-05
 ### Added
 - Carousel mode in Now Playing page allowing visible preview for user to change the prev/next songs
