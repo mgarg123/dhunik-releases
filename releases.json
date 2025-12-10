@@ -1,6 +1,13 @@
 {
   "releases": [
     {
+      "version": "1.1.0",
+      "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.1.0.apk",
+      "changelog": "ver bump to 1.1.0",
+      "releaseDate": "2025-12-10T17:13:57Z",
+      "apkSize": 75159698
+    },
+    {
       "version": "1.0.10",
       "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.0.10.apk",
       "changelog": "### Fixed\n- Bug Fixes\n- Fixed web app compatibility issues while playing the liked song",
