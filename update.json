@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.1.0",
-  "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.1.0.apk",
-  "changelog": "ver bump to 1.1.0"
+  "latestVersion": "1.1.1",
+  "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.1.1.apk",
+  "changelog": "### Fixed\n- Input focus loss issue in chat\n- Incorrect user name for typing indication\n- Message appearing in reverse order"
 }

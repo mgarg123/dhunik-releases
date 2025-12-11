@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
+## [1.1.1] - 2025-12-11
+### Fixed
+- Input focus loss issue in chat
+- Incorrect user name for typing indication
+- Message appearing in reverse order
+
+## [1.1.0] - 2025-12-10
+### Added
+- Added Song Party Feature - Listen and chat with friends together
+
 ## [1.0.10] - 2025-12-05
 ### Fixed
 - Bug Fixes
