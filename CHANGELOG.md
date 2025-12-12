@@ -7,6 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
+## [1.1.2] - 2025-12-12
+### Fixed
+- Tap detection issue with bottom player
+- Intermittent No Internet Connection issue
+- Artist page song deck view peek issue
+### Added
+- Swipe carousel effect to bottom player
+- Remove song from queue inside party room (For Host)
+- Swipe left to remove the song from the queue
+- Revamped the Top Searches page
+- Lyrics tab in Party Room
+
+
 ## [1.1.1] - 2025-12-11
 ### Fixed
 - Input focus loss issue in chat

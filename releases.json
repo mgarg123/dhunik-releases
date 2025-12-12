@@ -1,6 +1,13 @@
 {
   "releases": [
     {
+      "version": "1.1.2",
+      "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.1.2.apk",
+      "changelog": "### Fixed\n- Tap detection issue with bottom player\n- Intermittent No Internet Connection issue\n- Artist page song deck view peek issue\n### Added\n- Swipe carousel effect to bottom player\n- Remove song from queue inside party room (For Host)\n- Swipe left to remove the song from the queue\n- Revamped the Top Searches page\n- Lyrics tab in Party Room",
+      "releaseDate": "2025-12-12T16:55:26Z",
+      "apkSize": 75110546
+    },
+    {
       "version": "1.1.1",
       "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.1.1.apk",
       "changelog": "### Fixed\n- Input focus loss issue in chat\n- Incorrect user name for typing indication\n- Message appearing in reverse order",
