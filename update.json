@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.1.2",
-  "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.1.2.apk",
-  "changelog": "### Fixed\n- Tap detection issue with bottom player\n- Intermittent No Internet Connection issue\n- Artist page song deck view peek issue\n### Added\n- Swipe carousel effect to bottom player\n- Remove song from queue inside party room (For Host)\n- Swipe left to remove the song from the queue\n- Revamped the Top Searches page\n- Lyrics tab in Party Room"
+  "latestVersion": "1.1.3",
+  "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.1.3.apk",
+  "changelog": "### Fixed\n- Song restart issue on reordering and adding to queue in party room\n- Song reordering issues inside party room\n- Blank screen when host ends the party\n### Added\n- Scroll to bottom inside Party chat\n- Added cast support - beta"
 }

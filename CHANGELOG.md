@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
+## [1.1.3] - 2025-12-13
+### Fixed
+- Song restart issue on reordering and adding to queue in party room
+- Song reordering issues inside party room
+- Blank screen when host ends the party
+### Added
+- Scroll to bottom inside Party chat
+- Added cast support - beta
+
 ## [1.1.2] - 2025-12-12
 ### Fixed
 - Tap detection issue with bottom player
