@@ -7,7 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
-## [1.1.3] - 2025-12-15
+## [1.1.5] - 2025-12-16
+### Fixed
+- Cast device detection issue - Added missing permissions
+
+## [1.1.4] - 2025-12-15
 ### Fixed
 - Cast device detection issue
 
