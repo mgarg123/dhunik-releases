@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.1.5",
-  "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.1.5.apk",
-  "changelog": "### Fixed\n- Cast device detection issue - Added missing permissions"
+  "latestVersion": "1.1.6",
+  "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.1.6.apk",
+  "changelog": "### Fixed\n- Fixed routing inconsistencies for home page and library pages\n- Recently played listing metadata issues\n- Settings bottom sheet UI issues\n- Auto scroll of non-synced lyrics\n### Added\n- Filter/sort options to library pages\n- Revamped homepage and explore page\n- Recently played song now appears on the homepage\n- Album Context Menu for easy actions on the album page\n- More options to playlist context menu\n- New settings for more better control\n- Dedicated Report Issue option in the account page for reporting any concerns"
 }

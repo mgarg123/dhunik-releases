@@ -6,6 +6,20 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [unreleased]
+## [1.1.6] - 2025-12-17
+### Fixed
+- Fixed routing inconsistencies for home page and library pages
+- Recently played listing metadata issues
+- Settings bottom sheet UI issues
+- Auto scroll of non-synced lyrics
+### Added
+- Filter/sort options to library pages
+- Revamped homepage and explore page
+- Recently played song now appears on the homepage
+- Album Context Menu for easy actions on the album page
+- More options to playlist context menu
+- New settings for more better control
+- Dedicated Report Issue option in the account page for reporting any concerns
 
 ## [1.1.5] - 2025-12-16
 ### Fixed
