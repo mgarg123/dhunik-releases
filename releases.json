@@ -1,6 +1,13 @@
 {
   "releases": [
     {
+      "version": "1.1.7",
+      "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.1.7.apk",
+      "changelog": "### Fixed\n- Reduced minimum characters for search to 2\n- Search data load issue when swiped between the tabs\n### Added\n- Reply mode to the party chat\n- Recent Searches in search page\n- Context menu to songs in search page\n- Setting to toggle bottom player progress bar",
+      "releaseDate": "2025-12-18T12:46:26Z",
+      "apkSize": 76718530
+    },
+    {
       "version": "1.1.6",
       "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.1.6.apk",
       "changelog": "### Fixed\n- Fixed routing inconsistencies for home page and library pages\n- Recently played listing metadata issues\n- Settings bottom sheet UI issues\n- Auto scroll of non-synced lyrics\n### Added\n- Filter/sort options to library pages\n- Revamped homepage and explore page\n- Recently played song now appears on the homepage\n- Album Context Menu for easy actions on the album page\n- More options to playlist context menu\n- New settings for more better control\n- Dedicated Report Issue option in the account page for reporting any concerns",
