@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.1.7",
-  "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.1.7.apk",
-  "changelog": "### Fixed\n- Reduced minimum characters for search to 2\n- Search data load issue when swiped between the tabs\n### Added\n- Reply mode to the party chat\n- Recent Searches in search page\n- Context menu to songs in search page\n- Setting to toggle bottom player progress bar"
+  "latestVersion": "1.2.0",
+  "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.2.0.apk",
+  "changelog": "Manual release"
 }

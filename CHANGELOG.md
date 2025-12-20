@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
+## [1.2.0] - 2025-12-20
+### Added
+- Introducing Dhunik voice assistant "Vaayu" - control your music with your voice
+- New voices to the voice assistant Vaayu
+- Mood pills to the homepage and removed hero carousel
+- Lyrics transliteration feature
+- Player controls to now playing bottom sheets
+### Fixed
+- Stability issue
+
 ## [1.1.7] - 2025-12-18
 ### Fixed
 - Reduced minimum characters for search to 2
