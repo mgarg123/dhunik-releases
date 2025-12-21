@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.2.0",
-  "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.2.0.apk",
-  "changelog": "Manual release"
+  "latestVersion": "1.2.2",
+  "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.2.2.apk",
+  "changelog": "### Fixed\n- APK installation failure on certain devices (e.g., Pixel 7) by enabling all APK signature schemes (v1, v2, v3)\n- macOS build failure by updating deployment target from 10.15 to 11.0 (required for speech_to_text plugin)\n- macOS app crash when clicking voice assistant button (disabled voice assistant on desktop platforms)"
 }

@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
+## [1.2.2] - 2025-12-21
+### Fixed
+- APK installation failure on certain devices (e.g., Pixel 7) by enabling all APK signature schemes (v1, v2, v3)
+- macOS build failure by updating deployment target from 10.15 to 11.0 (required for speech_to_text plugin)
+- macOS app crash when clicking voice assistant button (disabled voice assistant on desktop platforms)
+
 ## [1.2.0] - 2025-12-20
 ### Added
 - Introducing Dhunik voice assistant "Vaayu" - control your music with your voice
