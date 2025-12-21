@@ -1,6 +1,13 @@
 {
   "releases": [
     {
+      "version": "1.2.3",
+      "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.2.3.apk",
+      "changelog": "### Added\n- PUSH notification support\n- Restricted Vaayu assistant to authenticated users\n### Fixed\n- Other bug fixes and optimizations",
+      "releaseDate": "2025-12-21T12:45:29Z",
+      "apkSize": 79279773
+    },
+    {
       "version": "1.2.2",
       "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.2.2.apk",
       "changelog": "### Fixed\n- APK installation failure on certain devices (e.g., Pixel 7) by enabling all APK signature schemes (v1, v2, v3)\n- macOS build failure by updating deployment target from 10.15 to 11.0 (required for speech_to_text plugin)\n- macOS app crash when clicking voice assistant button (disabled voice assistant on desktop platforms)",

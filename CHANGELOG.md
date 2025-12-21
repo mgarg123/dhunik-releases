@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
+## [1.2.3] - 2025-12-21
+### Added
+- PUSH notification support
+- Restricted Vaayu assistant to authenticated users
+### Fixed
+- Other bug fixes and optimizations
+
 ## [1.2.2] - 2025-12-21
 ### Fixed
 - APK installation failure on certain devices (e.g., Pixel 7) by enabling all APK signature schemes (v1, v2, v3)
