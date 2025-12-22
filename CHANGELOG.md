@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
+## [1.2.4] - 2025-12-22
+### Fixed
+- Voice assistant not working
+- Voice assistant orb UI
+- Audio ducking when assistant speaks
+
 ## [1.2.3] - 2025-12-21
 ### Added
 - PUSH notification support
