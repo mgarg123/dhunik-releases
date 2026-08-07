@@ -7,7 +7,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
-## [1.2.5] - 2025-03-15
+## [1.2.8] - 2026-08-07
+### Fixed
+- Complete Cast Protocol Rewrite
+- Seamless Playback Handoff
+- Pause/Resume Reliability
+- Background Operation fixes
+- Enhanced Cast UX & Syncing
+
+## [1.2.7] - 2026-07-26
+### Added
+- Welcome screen revamp
+- Library page revamp
+- Ability to load and play local musics
+### Optimizations
+- Progressbar updates
+
+## [1.2.6] - 2026-04-25
+### Added
+- Extended lyrics display mode to now playing page
+
+## [1.2.5] - 2026-03-15
 ### Added
 - Support for Android Auto (Beta)
 ### Optimizations
