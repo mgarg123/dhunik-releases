@@ -1,6 +1,13 @@
 {
   "releases": [
     {
+      "version": "1.2.9",
+      "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.2.9.apk",
+      "changelog": "### Fixed\n- Cast bug fixes\n### Added\n- Account page revamp - stats section\n- ui updates\n- notification updates",
+      "releaseDate": "2026-08-07T16:21:22Z",
+      "apkSize": 81975209
+    },
+    {
       "version": "1.2.8",
       "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.2.8.apk",
       "changelog": "### Fixed\n- Complete Cast Protocol Rewrite\n- Seamless Playback Handoff\n- Pause/Resume Reliability\n- Background Operation fixes\n- Enhanced Cast UX & Syncing",
