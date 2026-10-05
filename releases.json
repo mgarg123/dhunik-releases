@@ -1,6 +1,13 @@
 {
   "releases": [
     {
+      "version": "2.0.0",
+      "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v2.0.0.apk",
+      "changelog": "### Added\n- Major UI changes and optimizations\n- Introducing new music source (YouTube)\n- Introducing reels\n- Brand new OLED dark design with ambient album art glow\n- Floating MiniPlayer with swipe-to-skip gestures\n- Redesigned Now Playing screen with modern controls\n- Interactive synced lyrics with karaoke highlighting and tap-to-seek\n- Revamped Song Details page with artist chips and recommendations\n- Modern glassmorphic context menus for songs, albums, and playlists\n- Home screen Quick Picks and Mood filters\n- Account page with listening stats\n- Revamp homepage, library, account, setting and all other pages\n### Changed\n- Sleek floating bottom navigation with Cupertino-style icons\n- Improved lock screen controls and notifications\n- Faster app navigation and deep linking\n- Updated song recommendation engine\n### Improvements\n- Smoother 60fps animations across all screens",
+      "releaseDate": "2026-10-05T19:19:10Z",
+      "apkSize": 89328779
+    },
+    {
       "version": "1.2.9",
       "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v1.2.9.apk",
       "changelog": "### Fixed\n- Cast bug fixes\n### Added\n- Account page revamp - stats section\n- ui updates\n- notification updates",

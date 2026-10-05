@@ -7,6 +7,31 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
+## [2.0.0] - 2026-10-03
+### Added
+- Major UI changes and optimizations
+- Introducing new music source (YouTube)
+- Introducing reels
+- Brand new OLED dark design with ambient album art glow
+- Floating MiniPlayer with swipe-to-skip gestures
+- Redesigned Now Playing screen with modern controls
+- Interactive synced lyrics with karaoke highlighting and tap-to-seek
+- Revamped Song Details page with artist chips and recommendations
+- Modern glassmorphic context menus for songs, albums, and playlists
+- Home screen Quick Picks and Mood filters
+- Account page with listening stats
+- Revamp homepage, library, account, setting and all other pages
+
+### Changed
+- Sleek floating bottom navigation with Cupertino-style icons
+- Improved lock screen controls and notifications
+- Faster app navigation and deep linking
+- Updated song recommendation engine
+
+### Improvements
+- Smoother 60fps animations across all screens
+- More reliable high-quality (320 kbps) streaming
+
 ## [1.2.9] - 2026-08-07
 ### Fixed
 - Cast bug fixes
