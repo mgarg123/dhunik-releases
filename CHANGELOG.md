@@ -7,6 +7,40 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
+## [2.2.0] - 2026-10-25
+### Added
+- Notification media controls like button: favorite or unfavorite tracks directly from your notification drawer
+- Working shuffle mode in Now Playing with instant queue reordering and tactile feedback
+- Modern floating pill toast notifications with subtle haptic feedback
+- Playful heart bounce animation when liking or unliking songs in Now Playing
+- Instant offline access to Home feeds and Quick Picks on app launch
+- Speed dial section in the home screen
+
+### Changed & Fixed
+- Instant song liking: tapping the heart icon now reacts immediately with zero delay
+- Fixed Liked Songs order: your newly liked tracks and playlists now appear right at the top
+- Fixed duplicate border styling on floating toast notifications
+- Dramatically faster app startup with a seamless, zero-flash launch transition
+- Polished notification design and consistent aesthetics across the entire app
+
+## [2.1.0] - 2026-10-08
+### Added
+- Complete UI/UX revamp of login page, auth sheets, and unauthenticated prompts
+- Premium Google Sign-In button with built-in loading states and haptics
+- Subtle studio ambient gradient glow at the top of Home screen
+- High-resolution, zero-margin header logo asset
+- Interactive scrubbable progress bar on Reels with live preview timestamp pill and haptic feedback
+- Frosted glass animated Play/Pause center overlay indicator when Reels are paused
+- Ambient Spotify-style spinning vinyl visualizer fallback for audio-only Reels tracks
+
+### Changed & Fixed
+- Fixed App Header logo alignment and spacing to match the 16dp content grid
+- Standardized header height (56dp) with balanced search and avatar midline centering
+- Fixed silent audio bug in Reels video playback caused by Android ExoPlayer audio focus preemption
+- Optimized YouTube video stream fetching using dedicated video filtering and accelerated native stream URL resolution
+- Parallelized Reels discovery prefetching with proactive background stream caching
+- Restricted active video controller pool to prevent Android hardware MediaCodec decoder exhaustion
+
 ## [2.0.0] - 2026-10-03
 ### Added
 - Major UI changes and optimizations
