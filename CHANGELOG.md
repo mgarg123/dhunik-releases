@@ -7,6 +7,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
+## [2.3.0] - 2026-10-28
+### Added & Performance Optimizations
+- **Massive APK Size Reduction**: Reduced primary download size from ~88.5 MB down to ~30 MB (over 65% reduction)
+- **Multi-Architecture Release Packaging**: Automated builds for modern 64-bit devices (`arm64-v8a`), 32-bit devices (`armv7`), and universal fallback
+- **R8 / ProGuard Code & Resource Shrinking**: Minified bytecode and eliminated over 16 MB of unused dependency code with zero regressions
+- **Asset Optimization**: Converted core assets to high-efficiency WebP and pruned redundant legacy assets
+- Guaranteed 100% stability across background playback, lock-screen notifications, YouTube stream extraction, and offline downloads
+
+## [2.2.1] - 2026-10-26
+### Fixed
+- Fixed an issue where songs in the Speed Dial section would not play when tapped
+- Fixed playback for YouTube tracks across Liked Songs, Recently Played, and Library
+- Improved music playback reliability and smoother switching between offline and online streams
+- Search improvements
+
 ## [2.2.0] - 2026-10-25
 ### Added
 - Notification media controls like button: favorite or unfavorite tracks directly from your notification drawer
