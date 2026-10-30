@@ -7,6 +7,37 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
+## [2.4.0] - 2026-10-30
+### Added & Improved
+- **Customizable Mini-Player Styles**: Personalize your bottom player aesthetic in Settings with selectable designs: Floating Stadium Pill, Full Width Docked Bar, or Floating Vinyl Disc
+- **Mini-Player Quick Style Switcher**: Long-press anywhere on the bottom mini-player to instantly summon the style picker sheet with tactile haptic feedback
+- **Interactive Track-Skip Swipe with Peek Glimpse**: Swiping left or right on the mini-player smoothly glides the album art and track details while revealing the incoming next or previous track's artwork, title, and tag in real time with spring physics, boundary resistance, and haptics, while keeping the docked player frame stationary
+- **Dynamic Speed Dial Ambient Glow**: Home screen dual-tone ambient background dynamically extracts dominant palette colors from your Speed Dial song artwork with smooth cross-fade transitions and graceful fallbacks
+- **Universal Playlist Import**: Transfer any public playlist from Spotify or YouTube Music with a single link
+- **In-Playlist Song Recommendations**: Discover and add similar songs directly inside your playlists
+- **Smart Link Detection Popup**: Automatically prompts to play or import copied Spotify & YouTube links on app open
+- **Search Link Resolver**: Paste any Spotify or YouTube song link in search to play it instantly
+- **Dynamic Queue Reordering**: Drag-and-drop to reorder songs in Up Next with tactile haptic feedback
+- **Ghost Cache & Zero-Latency Gapless Audio**: Seamlessly pre-buffers upcoming queue tracks directly to a lightweight, bounded disk cache in the background, eliminating network buffering delays and dead air between songs with strict memory safety and LRU eviction
+- **Apple Music-Style Animated Mesh Gradient**: Dynamic, fluid ambient glow on the Now Playing screen with smooth song-to-song color morphing, frosted diffusion, and zero-rebuild performance optimization
+- **AutoEq Live Cloud Integration (8,800+ Headphone Models)**: Search and apply official laboratory-measured acoustic calibration data directly from Jaakko Pasanen's AutoEq database (oratory1990, Crinacle, Rtings, B&K 5128) with local disk caching and real-time hardware EQ sync
+- **Interactive AutoEq Frequency Curve Preview**: Tap any headphone profile in the search list to inspect and preview its laboratory frequency response curve dynamically on the top visualizer in glowing amber before applying, complete with one-tap dismiss and zero audio interruption
+- **Hardware-Level Loudness Normalization (Auto-Gain)**: Eliminates jarring volume jumps between quiet master tracks and loud YouTube rips automatically using Android's hardware `LoudnessEnhancer` (EBU R128 standard) with quick toggles in Settings and the Equalizer Effects lab
+- **Auto-Detect Links Setting**: Toggle copied link prompts anytime in Settings
+- **New Playlist Menu**: Tap "+" to create a blank playlist or import an existing one
+- **Playlists Discovery Banner**: Quick-access banner in Playlists makes imports effortless
+- **Instant Playlist Playback**: Newly imported playlists now load and stream immediately
+- **Bottom Nav Search**: Moved search to the bottom navigation bar for quick access
+- **Clean Library Page**: Revamped the library interface to reduce visual clutter
+- **Speak to Search**: Search songs hands-free using your voice on the search page
+
+## [2.3.1] - 2026-10-28
+### Added & Improved
+- **Headphone Comfort**: Reduces ear strain and headaches on headphones by blending stereo sound naturally, making music feel like it is playing in an open room
+- **Warm Tube Sound**: Adds vintage warmth, rich depth, and crystal-clear vocals to any song
+- **Working Equalizer**: Presets (Bass Boost, Pop, Rock, etc.) and custom sliders now genuinely tune your music in real time
+- **Cleaner Stats**: Fixed artist names on the Listening Stats page to display clean text without unwanted characters or symbols
+
 ## [2.3.0] - 2026-10-28
 ### Added & Performance Optimizations
 - **Massive APK Size Reduction**: Reduced primary download size from ~88.5 MB down to ~30 MB (over 65% reduction)
