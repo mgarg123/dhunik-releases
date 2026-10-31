@@ -7,6 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
+## [2.4.1] - 2026-10-31
+### Added & Improved
+- **Studio-Grade Sound Engine**: A new custom audio engine delivers noticeably cleaner, richer sound with zero lag.
+- **5, 10 & 15-Band Equalizer Modes**: Switch easily between simple 5-band, studio 10-band, and pro 15-band sliders for fine-tuned audio control.
+- **Larger & Taller Sliders**: Greatly increased slider height and touch size, making it much easier to tune your music with precision.
+- **Click-Free Sound Adjustments**: Changing presets or dragging sliders now transitions smoothly with zero pops, clicks, or audio glitches.
+- **Real-Time Sound Wave Visualizer**: The frequency curve at the top now displays the exact shape of your audio tuning in real time.
+- **Smart Anti-Distortion Shield**: Automatically prevents harsh clipping and distortion, even when you heavily boost the bass or treble.
+- **Enhanced Headphone Profiles (AutoEq)**: Perfectly calibrates your sound to popular headphones like AirPods, Sony, and Sennheiser with studio accuracy.
+- **Seamless Track Crossfade**: Smoothly blends the end of one song into the next without any drop in volume or musical energy.
+- **Customizable Crossfade Length**: Easily adjust how long songs overlap (from instant gapless up to 12 seconds) right in Settings.
+- **Smart DJ Silence Trimmer**: Automatically trims dead silence at the end of tracks so your music crossfades right into the beat.
+
 ## [2.4.0] - 2026-10-30
 ### Added & Improved
 - **Customizable Mini-Player Styles**: Personalize your bottom player aesthetic in Settings with selectable designs: Floating Stadium Pill, Full Width Docked Bar, or Floating Vinyl Disc
