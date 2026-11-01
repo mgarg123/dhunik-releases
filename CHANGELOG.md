@@ -7,6 +7,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
+## [2.5.1] - 2026-11-01
+### Added & Improved
+- **Floating OLED Glass Capsule Header in Home & Song Party**: Elevated the home screen and song party lobby with dynamic morphing island headers! When scrolling down, the static full-width bar seamlessly animates into a floating OLED frosted glass capsule with 20px Gaussian blur, a subtle hairline border, ambient color glow reflection (sampled from Speed Dial artwork on Home, and neon party purple in Song Party), and fluid typography/avatar scaling.
+- **Dynamic Heart & Vinyl Record Collage Thumbnails**: Upgraded the generic flat icon thumbnails in the Library with interactive dynamic album cover art! Liked Songs now forms a heart-shaped photo collage out of your favorite track covers with a neon gradient heart border and glass sheen, while Recently Played forms a circular vinyl record with real recent album covers, concentric vinyl grooves, center history spindle, and ambient radial sheen.
+- **Double-Tap Mini Player to Like / Unlike**: Double tapping anywhere on the mini player / bottom player now instantly likes or unlikes the currently playing song with tactile haptic feedback, a delightful animated pink heart pop burst overlay, and a toast confirmation—without ever having to open the full now-playing screen.
+- **Configurable Dynamic View Types (List, 2×2 Grid & 3×3 Dense Grid)**: Browse **Library**, **Liked Songs**, and **Recently Played** your way with a single-tap view switcher in the action bar. Switch seamlessly between the detailed List view, a comfortable 2×2 cover grid with 1:1 artwork cards, and a dense 3×3 grid for rapid visual scanning—complete with full multi-selection, live playing indicators, context menus, and persistent layout preferences across all library views.
+- **Revamped OLED Create & Edit Playlist Dialog**: Redesigned playlist creation and editing with a frosted glassmorphic backdrop, gradient emblem branding, selected track count badges, interactive 3-segment visibility cards (Private, Public, Unlisted), smooth collaborative playlist toggles, and glowing gradient action buttons.
+- **Two-Way Recently Played Sync with `dhunik-cache`**: Seamlessly synchronizes listening history bidirectionally with the cloud cache (`dhunik-cache`), automatically restoring recently played tracks upon sign-in, persisting plays in the background with zero latency, and merging offline tracks conflict-free.
+- **Multi-Select & Batch Actions in Liked Songs**: Select multiple tracks in Liked Songs to bulk-add them to existing playlists, create a new playlist on the fly, play immediately, or remove with a floating glassmorphic action bar.
+- **Move to Liked Songs from Playlists**: Quickly move any track from inside a playlist directly into your Liked Songs library with a single tap in the context menu.
+- **Instant Playlist Song Removal**: Removing or moving a song from any playlist now updates the tracklist instantly in real time without requiring a pull-to-refresh.
+- **Atomic Playlist Creation with Initial Tracks**: Creating a new playlist with songs selected on the fly now immediately populates and synchronizes all tracks locally and to the cloud.
+- **Fixed Bottom Sheet Mini-Player Stacking**: Fixed modal bottom sheets (song context menus, search sheets, and dialogs) getting obscured behind the floating mini-player by ensuring root navigator presentation.
+- Party page cosmetic and other bug fixes and optimizations.
+
 ## [2.5.0] - 2026-11-01
 ### Added & Improved
 - **Smartwatch & Wear OS Queue Sync**: View your full music queue, see track position, and jump to any song directly from your smartwatch.
