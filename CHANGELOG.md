@@ -7,6 +7,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
+## [2.5.0] - 2026-11-01
+### Added & Improved
+- **Smartwatch & Wear OS Queue Sync**: View your full music queue, see track position, and jump to any song directly from your smartwatch.
+- **Language-Driven Artist Discovery**: Picking your preferred languages now automatically tailors the artists you see to your regional taste.
+- **High-Definition Artist Photos**: Fixed missing artist pictures across the app so every artist now has a crisp, clear image.
+- **Personalized Home Recommendations**: Quick Picks and Speed Dial now feature the artists and languages you chose during setup.
+- **Your Artists on Home Screen**: Added a dedicated section on the home page featuring your favorite artists.
+- **Multi-Language Trending Hits**: Trending songs, albums, and featured playlists now reflect all of your selected languages together.
+- **Lyrics Script & Transliteration Setup**: Added a setup step to pick how you want your lyrics displayed (Romanized English, Native Script, or Original) for effortless sing-alongs.
+- **Compact Lyrics Script Switcher**: Replaced the hidden long-press button with an intuitive split pill that lets you toggle transliteration with a single tap or switch scripts instantly via the dropdown chevron.
+- **Player Aesthetic Setup**: Personalize your bottom player look right from the start with interactive previews for Floating Stadium Pill, Full Width Docked Bar, and Floating Vinyl Disc.
+- **Revamped Flagship About Showcase**: Redesigned the About page with an animated ambient breathing aura, modern flagship feature highlights (15-band EQ, AutoEq, Wear OS sync, phonetic AI lyrics), tech engineering chips, and polished glassmorphic community links.
+- **Revamped OLED Account & Profile Hub**: Modernized the account screen with an elegant horizontal profile card, ambient dynamic glow, 2x2 quick-access shortcuts for Equalizer, Settings, Downloads, and Stats, plus streamlined grouped preferences.
+- **Revamped Premium Sign-In Prompt**: Redesigned the authentication modal with dynamic feature-tailored headers, glowing hero emblem, OLED glass feature badges, and status-bar safe layout.
+- **Smart Lyrics Transliteration Account Gating**: Lyrics transliteration is now seamlessly connected with account sign-in, with instant access upon authentication.
+- **Revamped Pre-Search & Discovery Hub**: Redesigned the search pre-state to match Spotify and YouTube Music standards with clean recent search tiles (complete with insert arrow and single-tap remove), a visual "Trending Now" carousel featuring cover artwork, rankings, and play badges, plus Top Charts.
+- **Revamped Active Search Results Experience**: Brought Spotify & Apple Music standards to active queries with a prominent "Top Result" Best Match hero card (with 1-tap playback), brand-gradient floating pill filter tabs, 2-column cover artwork grids for Albums and Playlists, and a 3-column circular avatar grid for Artists.
+- **Unified Browse All Experience**: Consolidated the redundant Explore page into Search's pre-state with 2-column vibrant gradient cards and angled 3D artwork (`GenreMoodGridSection`), elevating discovery and streamlining app navigation.
+- **True Floating Mini-Player Fix**: Fixed an issue where the Floating Stadium Pill and Dynamic Island were placed inside the bottom navigation slot, causing an opaque black bar on the left and right. They now genuinely float over the content and animated background with zero background occlusion.
+- **Intuitive Floating Vinyl Disc Controls**: Updated the vinyl disc mini-player so tapping anywhere on the spinning disc opens the Now Playing page, while tapping the center glass icon toggles Play/Pause.
+
 ## [2.4.1] - 2026-10-31
 ### Added & Improved
 - **Studio-Grade Sound Engine**: A new custom audio engine delivers noticeably cleaner, richer sound with zero lag.
