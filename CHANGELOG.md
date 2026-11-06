@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
+## [2.5.2] - 2026-11-06
+### Added & Improved
+- Cast bug fixes and optimizations
+- Fixes half open TCP connection when device abruptly goes offline to handover play/pause to phone automatically
+- Enabled cast device volume control from the phone volume keys when connected
+- Improved song fetch latency
+- Fix queue bottom sheet scroll to focus current playing song issue
+
 ## [2.5.1] - 2026-11-01
 ### Added & Improved
 - **Floating OLED Glass Capsule Header in Home & Song Party**: Elevated the home screen and song party lobby with dynamic morphing island headers! When scrolling down, the static full-width bar seamlessly animates into a floating OLED frosted glass capsule with 20px Gaussian blur, a subtle hairline border, ambient color glow reflection (sampled from Speed Dial artwork on Home, and neon party purple in Song Party), and fluid typography/avatar scaling.
