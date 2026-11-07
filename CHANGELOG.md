@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
+## [2.5.3] - 2026-11-07
+### Added & Improved
+- Fix duration format in up next sheet
+- Optimized now playing page load time
+- Optimized stuttery now playing page animation while closing it
+- Optimized other page load delay issues
+
 ## [2.5.2] - 2026-11-06
 ### Added & Improved
 - Cast bug fixes and optimizations

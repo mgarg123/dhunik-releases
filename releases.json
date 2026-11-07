@@ -1,6 +1,13 @@
 {
   "releases": [
     {
+      "version": "2.5.3",
+      "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v2.5.3.apk",
+      "changelog": "### Added & Improved\n- Fix duration format in up next sheet\n- Optimized now playing page load time\n- Optimized stuttery now playing page animation while closing it\n- Optimized other page load delay issues",
+      "releaseDate": "2026-11-07T13:06:45Z",
+      "apkSize": 23570891
+    },
+    {
       "version": "2.5.2",
       "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v2.5.2.apk",
       "changelog": "### Added & Improved\n- Cast bug fixes and optimizations\n- Fixes half open TCP connection when device abruptly goes offline to handover play/pause to phone automatically\n- Enabled cast device volume control from the phone volume keys when connected\n- Improved song fetch latency\n- Fix queue bottom sheet scroll to focus current playing song issue",
