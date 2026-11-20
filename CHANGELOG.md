@@ -7,6 +7,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
+## [2.5.4] - 2026-11-20
+### Added & Improved
+- Cross-platform YouTube engine for macOS with native audio streaming and search
+- Fixed audio stream playback truncation on macOS (MP4/AAC priority and range header fix)
+- Automated Up Next recommendations and queue population for desktop
+- Fluid responsive layouts and real-time window resizing for macOS and desktop
+- Optimized Now Playing artwork and layout to prevent overflow on wide screens
+- Fixed inaccurate song duration on macOS by validating against track metadata
+- Enabled mouse and trackpad drag scrolling for carousels and mood pills
+- Hidden mobile-only Reels section on macOS and desktop platforms
+- Other UI fixes and otpimizations
+- Crossfade optimizations
+- Added interactive Sleep Timer modal with preset durations, live countdown, and cancellation support
+- Added Sleep Timer quick access to Now Playing context menu and active countdown pill in top bar
+- Connected Settings Sleep Timer to live playback with real-time active status display
+- Fixed Sleep Timer End of Track completion and disarmed crossfade when ending playback
+
 ## [2.5.3] - 2026-11-07
 ### Added & Improved
 - Fix duration format in up next sheet

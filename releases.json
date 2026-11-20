@@ -1,6 +1,27 @@
 {
   "releases": [
     {
+      "version": "2.5.4",
+      "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v2.5.4.apk",
+      "changelog": "### Added & Improved\n- Cross-platform YouTube engine for macOS with native audio streaming and search\n- Fixed audio stream playback truncation on macOS (MP4/AAC priority and range header fix)\n- Automated Up Next recommendations and queue population for desktop\n- Fluid responsive layouts and real-time window resizing for macOS and desktop\n- Optimized Now Playing artwork and layout to prevent overflow on wide screens\n- Fixed inaccurate song duration on macOS by validating against track metadata\n- Enabled mouse and trackpad drag scrolling for carousels and mood pills\n- Hidden mobile-only Reels section on macOS and desktop platforms\n- Other UI fixes and otpimizations\n- Crossfade optimizations\n- Added interactive Sleep Timer modal with preset durations, live countdown, and cancellation support\n- Added Sleep Timer quick access to Now Playing context menu and active countdown pill in top bar\n- Connected Settings Sleep Timer to live playback with real-time active status display\n- Fixed Sleep Timer End of Track completion and disarmed crossfade when ending playback",
+      "releaseDate": "2026-11-20T11:27:16Z",
+      "apkSize": 23587275,
+      "platforms": {
+        "android": {
+          "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v2.5.4.apk",
+          "size": 23587275
+        },
+        "macos": {
+          "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-macos-v2.5.4.dmg",
+          "size": 27534009
+        },
+        "ios": {
+          "downloadUrl": "https://github.com/mgarg123/dhunik-releases/releases/download/v2.5.4/dhunik-ios-v2.5.4.ipa",
+          "size": 13715352
+        }
+      }
+    },
+    {
       "version": "2.5.3",
       "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v2.5.3.apk",
       "changelog": "### Added & Improved\n- Fix duration format in up next sheet\n- Optimized now playing page load time\n- Optimized stuttery now playing page animation while closing it\n- Optimized other page load delay issues",
