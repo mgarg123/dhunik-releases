@@ -6,6 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [unreleased]
+## [2.5.5] - 2026-11-22
+### Added & Improved
+- Fixed imported playlist sync issue
+- Fixed song persistance issue post deletion from the playlist
+- Improved search result ranking
+- Updated default album art
+- Optimized scanning and playing local songs
 
 ## [2.5.4] - 2026-11-20
 ### Added & Improved
