@@ -1,19 +1,19 @@
 {
-  "latestVersion": "2.5.5",
-  "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v2.5.5.apk",
-  "changelog": "### Added & Improved\n- Fixed imported playlist sync issue\n- Fixed song persistance issue post deletion from the playlist\n- Improved search result ranking\n- Updated default album art\n- Optimized scanning and playing local songs",
+  "latestVersion": "2.5.6",
+  "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v2.5.6.apk",
+  "changelog": "### Added & Improved\n- Fixed app update issue on macOS app\n- Fixed login issue on macOS app\n- Enhanced user onboarding page\n- Enhanced Library page\n- Added automatic grouping by artist across Library, Liked Songs, and Local Music\n- Enhanced listening stats page and enabled syncing to cloud",
   "platforms": {
     "android": {
-      "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v2.5.5.apk",
-      "size": 23615947
+      "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-v2.5.6.apk",
+      "size": 23726539
     },
     "macos": {
-      "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-macos-v2.5.5.dmg",
-      "size": 27580312
+      "downloadUrl": "https://github.com/mgarg123/dhunik-releases/raw/main/releases/dhunik-macos-v2.5.6.dmg",
+      "size": 27818097
     },
     "ios": {
-      "downloadUrl": "https://github.com/mgarg123/dhunik-releases/releases/download/v2.5.5/dhunik-ios-v2.5.5.ipa",
-      "size": 13741532
+      "downloadUrl": "https://github.com/mgarg123/dhunik-releases/releases/download/v2.5.6/dhunik-ios-v2.5.6.ipa",
+      "size": 13864023
     }
   }
 }

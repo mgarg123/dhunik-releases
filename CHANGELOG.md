@@ -6,6 +6,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [unreleased]
+
+## [2.5.6] - 2026-11-27
+### Added & Improved
+- Fixed app update issue on macOS app
+- Fixed login issue on macOS app
+- Enhanced user onboarding page
+- Enhanced Library page
+- Added automatic grouping by artist across Library, Liked Songs, and Local Music
+- Enhanced listening stats page and enabled syncing to cloud
+
+
 ## [2.5.5] - 2026-11-22
 ### Added & Improved
 - Fixed imported playlist sync issue
